@@ -1,6 +1,6 @@
 package uaslp.objetos.escuela;
 
-public class AlgoritmoX {
+public class AlgoritmoX{
 
     private final Dependencia1 dependencia1;
     private final Dependencia2 dependencia2;
